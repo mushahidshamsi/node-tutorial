@@ -19,3 +19,9 @@ console.log(newItems);
 // 4. git remote add origin https://github.com/mushahidshamsi/node-tutorial.git
 // 5. git branch -M main
 // 6. git push -u origin main
+
+// git config --global user.name "Mushahid Shamsi"
+// git config --global user.email "mushahidshamsi@gmail.com"
+
+// git clone https://github.com/mushahidshamsi/node-tutorial.git
+// after cloning just write npm install in terminal, it'll install all the libraries
